@@ -1,8 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "groups": [
+      {
+      "id": "1",
+      "icon": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "name": "Group 1",
+      "lastMessage": {
+        "id": null,
+        "sender": null,
+        "content": "hello",
+        "groupId": null,
+        "timestamp": "01/02/2022 22:30",
+        "Status": null
+      },
+      "target": "Education"
     }
   ],
   "profile": {
