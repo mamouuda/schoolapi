@@ -24,7 +24,7 @@
       "timestamp": "01/02/2022 22:30",
       "Status": null
     },
-    "target": "Education"
+    "target": "PRIVATE"
   }, {
     "id": "3",
     "icon": "https://images.pexels.com/photos/220453/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
@@ -129,5 +129,807 @@
       "Status": null
     },
     "target": "private"
-  }]
+  }],
+  "messages": [{
+      "sender": "1",
+      "id": "1",
+      "content": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "2",
+      "content": "qui est esse",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "3",
+      "content": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "4",
+      "content": "eum et est occaecati",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "5",
+      "content": "nesciunt quas odio",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "6",
+      "content": "dolorem eum magni eos aperiam quia",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "7",
+      "content": "magnam facilis autem",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "8",
+      "content": "dolorem dolore est ipsam",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "9",
+      "content": "nesciunt iure omnis dolorem tempora et accusantium",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "10",
+      "content": "optio molestias id quia eum",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "11",
+      "content": "et ea vero quia laudantium autem",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "12",
+      "content": "in quibusdam tempore odit est dolorem",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "13",
+      "content": "dolorum ut in voluptas mollitia et saepe quo animi",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "14",
+      "content": "voluptatem eligendi optio",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "15",
+      "content": "eveniet quod temporibus",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "16",
+      "content": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "17",
+      "content": "fugit voluptas sed molestias voluptatem provident",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "18",
+      "content": "voluptate et itaque vero tempora molestiae",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "19",
+      "content": "adipisci placeat illum aut reiciendis qui",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "20",
+      "content": "doloribus ad provident suscipit at",
+      "groupId": "1",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "21",
+      "content": "asperiores ea ipsam voluptatibus modi minima quia sint",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "22",
+      "content": "dolor sint quo a velit explicabo quia nam",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "23",
+      "content": "maxime id vitae nihil numquam",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "24",
+      "content": "autem hic labore sunt dolores incidunt",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "25",
+      "content": "rem alias distinctio quo quis",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "26",
+      "content": "est et quae odit qui non",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "27",
+      "content": "quasi id et eos tenetur aut quo autem",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "28",
+      "content": "delectus ullam et corporis nulla voluptas sequi",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "29",
+      "content": "iusto eius quod necessitatibus culpa ea",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "30",
+      "content": "a quo magni similique perferendis",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "31",
+      "content": "ullam ut quidem id aut vel consequuntur",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "32",
+      "content": "doloremque illum aliquid sunt",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "33",
+      "content": "qui explicabo molestiae dolorem",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "34",
+      "content": "magnam ut rerum iure",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "35",
+      "content": "id nihil consequatur molestias animi provident",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "36",
+      "content": "fuga nam accusamus voluptas reiciendis itaque",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "37",
+      "content": "provident vel ut sit ratione est",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "38",
+      "content": "explicabo et eos deleniti nostrum ab id repellendus",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "39",
+      "content": "eos dolorem iste accusantium est eaque quam",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "40",
+      "content": "enim quo cumque",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "41",
+      "content": "non est facere",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "42",
+      "content": "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+      "groupId": "2",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "43",
+      "content": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "44",
+      "content": "optio dolor molestias sit",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "45",
+      "content": "ut numquam possimus omnis eius suscipit laudantium iure",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "46",
+      "content": "aut quo modi neque nostrum ducimus",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "47",
+      "content": "quibusdam cumque rem aut deserunt",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "48",
+      "content": "ut voluptatem illum ea doloribus itaque eos",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "49",
+      "content": "laborum non sunt aut ut assumenda perspiciatis voluptas",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "50",
+      "content": "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "51",
+      "content": "soluta aliquam aperiam consequatur illo quis voluptas",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "52",
+      "content": "qui enim et consequuntur quia animi quis voluptate quibusdam",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "53",
+      "content": "ut quo aut ducimus alias",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "54",
+      "content": "sit asperiores ipsam eveniet odio non quia",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "55",
+      "content": "sit vel voluptatem et non libero",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "56",
+      "content": "qui et at rerum necessitatibus",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "57",
+      "content": "sed ab est est",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "58",
+      "content": "voluptatum itaque dolores nisi et quasi",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "59",
+      "content": "qui commodi dolor at maiores et quis id accusantium",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "60",
+      "content": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere",
+      "groupId": "3",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "61",
+      "content": "voluptatem doloribus consectetur est ut ducimus",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "62",
+      "content": "beatae enim quia vel",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "63",
+      "content": "voluptas blanditiis repellendus animi ducimus error sapiente et suscipit",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11111",
+      "id": "64",
+      "content": "et fugit quas eum in in aperiam quod",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "65",
+      "content": "consequatur id enim sunt et et",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "66",
+      "content": "repudiandae ea animi iusto",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11111",
+      "id": "67",
+      "content": "aliquid eos sed fuga est maxime repellendus",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "68",
+      "content": "odio quis facere architecto reiciendis optio",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "69",
+      "content": "fugiat quod pariatur odit minima",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "70",
+      "content": "voluptatem laborum magni",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "71",
+      "content": "et iusto veniam et illum aut fuga",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "72",
+      "content": "sint hic doloribus consequatur eos non id",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "73",
+      "content": "consequuntur deleniti eos quia temporibus ab aliquid at",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "74",
+      "content": "enim unde ratione doloribus quas enim ut sit sapiente",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "75",
+      "content": "dignissimos eum dolor ut enim et delectus in",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "76",
+      "content": "doloremque officiis ad et non perferendis",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "77",
+      "content": "necessitatibus quasi exercitationem odio",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "78",
+      "content": "quam voluptatibus rerum veritatis",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "79",
+      "content": "pariatur consequatur quia magnam autem omnis non amet",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "80",
+      "content": "labore in ex et explicabo corporis aut quas",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "81",
+      "content": "tempora rem veritatis voluptas quo dolores vero",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "82",
+      "content": "laudantium voluptate suscipit sunt enim enim",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "111",
+      "id": "83",
+      "content": "odit et voluptates doloribus alias odio et",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "84",
+      "content": "optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "85",
+      "content": "dolore veritatis porro provident adipisci blanditiis et sunt",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "86",
+      "content": "placeat quia et porro iste",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "87",
+      "content": "nostrum quis quasi placeat",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "88",
+      "content": "sapiente omnis fugit eos",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "89",
+      "content": "sint soluta et vel magnam aut ut sed qui",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "90",
+      "content": "ad iusto omnis odit dolor voluptatibus",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "91",
+      "content": "aut amet sed",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "92",
+      "content": "ratione ex tenetur perferendis",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "93",
+      "content": "beatae soluta recusandae",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "94",
+      "content": "qui qui voluptates illo iste minima",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "11",
+      "id": "95",
+      "content": "id minus libero illum nam ad officiis",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "96",
+      "content": "quaerat velit veniam amet cupiditate aut numquam ut sequi",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "97",
+      "content": "quas fugiat ut perspiciatis vero provident",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "98",
+      "content": "laboriosam dolor voluptates",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1",
+      "id": "99",
+      "content": "temporibus sit alias delectus eligendi possimus magni",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+    },
+    {
+      "sender": "1111",
+      "id": "100",
+      "content": "at nam consequatur ea labore ea harum",
+      "groupId": "4",
+      "timestamp": "01/02/2022 10:00",
+      "status": "read"
+
+    }
+  ]
 }
