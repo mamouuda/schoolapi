@@ -2,7 +2,7 @@
   "groups": [{
     "id": "1",
     "icon": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 1",
+    "name": "محمد عبد العزيز",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -15,7 +15,7 @@
   }, {
     "id": "2",
     "icon": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 2 Education",
+    "name": "محمود",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -28,7 +28,7 @@
   }, {
     "id": "3",
     "icon": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 3",
+    "name": "عبد الرؤوف",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -41,7 +41,7 @@
   }, {
     "id": "4",
     "icon": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 4 Administration",
+    "name": "أحمد",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -54,7 +54,7 @@
   }, {
     "id": "5",
     "icon": "https://images.pexels.com/photos/2092474/pexels-photo-2092474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 5",
+    "name": "نبيل",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -67,7 +67,7 @@
   }, {
     "id": "6",
     "icon": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 6 Education",
+    "name": "سعد",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -80,7 +80,7 @@
   }, {
     "id": "7",
     "icon": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 7 Education",
+    "name": "سعيد",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -93,7 +93,7 @@
   }, {
     "id": "8",
     "icon": "https://images.pexels.com/photos/2100035/pexels-photo-2100035.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 8",
+    "name": "زيد",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -106,7 +106,7 @@
   }, {
     "id": "9",
     "icon": "https://images.pexels.com/photos/2625122/pexels-photo-2625122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 9 Administration",
+    "name": "يحيا",
     "lastMessage": {
       "id": null,
       "sender": null,
@@ -119,7 +119,7 @@
   }, {
     "id": "10",
     "icon": "https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "name": "Group 10",
+    "name": "المنجي",
     "lastMessage": {
       "id": null,
       "sender": null,
