@@ -3,31 +3,31 @@
       {
          "id":1,
          "media":"FILE",
-         "content":"{'path':'/Mon Fichier.pdf','size':'12'}",
+         "content":"{\"path\":\"/Mon Fichier.pdf\",\"size\":\"12\"}",
          "timestamp":"01/01/2022"
       },
       {
          "id":1,
          "media":"FOLDER",
-         "content":"{'path':'A/AB/ABC','size':'12'}",
+         "content":"{\"path\":\"A/AB/ABC\",\"size\":\"12\"}",
          "timestamp":"01/01/2022"
       },
       {
          "id":1,
          "media":"FILE",
-         "content":"{'path':'/Mon Fichier 2.csv','size':'0,12'}",
+         "content":"{\"path\":\"/Mon Fichier 2.csv\",\"size\":\"0,12\"}",
          "timestamp":"01/01/2022"
       },
       {
          "id":1,
          "media":"FILE",
-         "content":"{'path':'/Mon Fichier 3.ppt','size':'300'}",
+         "content":"{\"path\":\"/Mon Fichier 3.ppt\",\"size\":\"300\"}",
          "timestamp":"01/01/2022"
       },
       {
          "id":1,
          "media":"FILE",
-         "content":"{'path':'/Mon Fichier 4.pdf','size':'500'}",
+         "content":"{\"path\":\"/Mon Fichier 4.pdf\",\"size\":\"500\"}",
          "timestamp":"01/01/2022"
       }
    ]
